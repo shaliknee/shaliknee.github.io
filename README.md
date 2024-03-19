@@ -1,5 +1,6 @@
 # SpaceThoughts
 
+<p align="center">
 # H1
 ## H2
 ### H3
