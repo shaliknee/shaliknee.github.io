@@ -1,5 +1,3 @@
-# SpaceThoughts
-
 <h1 align="center">SpaceThoughts</h1>
 <h2 align="center">SpaceThoughts is a mental wellness and emotional management mobile application designed for children</h2>
 Our project aims to create a safe app for children to express their emotions and practice healthy mental wellness in a fun and engaging way.
